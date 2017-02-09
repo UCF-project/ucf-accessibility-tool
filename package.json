@@ -1,0 +1,34 @@
+{
+  "name": "ucf-accessibility-tool",
+  "version": "0.1.0",
+  "description": "UCF Project CLI tool for using different accessibility auditors.",
+  "bin": {
+    "uat": "./cli.js"
+  },
+  "main": "api.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UCF-project/ucf-accessibility-tool.git"
+  },
+  "keywords": [],
+  "author": "UCF Project <ucf-project@alterway.fr>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "debug": "^2.2.0",
+    "form-data": "^2.1.1",
+    "meow": "^3.7.0",
+    "nemo": "^2.3.1",
+    "nemo-accessibility": "^1.0.0",
+    "nemo-screenshot": "^2.2.1",
+    "node-fetch": "^1.6.3"
+  },
+  "xo": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  }
+}

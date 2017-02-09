@@ -1,0 +1,1774 @@
+Audit terminated with success at 2016-10-10 09:02:46.0
+Audit Id : 30
+
+RawMark : 67.24%
+WeightedMark : 66.6036%
+Nb Passed : 39
+Nb Failed test : 19
+Nb Failed occurences : 114
+Nb Pre-qualified : 114
+Nb Not Applicable : 239
+Nb Not Tested : 411
+
+Subject : https://www.alterway.fr/
+RawMark : 63.64%
+WeightedMark : 63.4444%
+Nb Passed : 14
+Nb Failed test : 8
+Nb Failed occurences : 51
+Nb Pre-qualified : 38
+Nb Not Applicable : 77
+Nb Not Tested : 137
+Rgaa30-1-1-1: PASSED
+Rgaa30-1-1-2: NOT_APPLICABLE
+Rgaa30-1-1-3: NOT_APPLICABLE
+Rgaa30-1-1-4: NOT_APPLICABLE
+Rgaa30-1-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> alt:Logo Symfony
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> alt:Logo Drupal
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> alt:Logo Wordpress
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> alt:Logo Docker
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> alt:Logo Elastic
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png
+    -> alt:Logo Html Js
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png
+    -> alt:Logo Mirantis
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> alt:Logo Open Stack
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png
+    -> title:attribute-absent
+    -> alt:Logo Drupal
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png
+    -> alt:Logo Microsoft Azure
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> alt:Logo php
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png
+    -> alt:Logo Zend
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png
+    -> alt:Logo Blue Mind
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png
+    -> alt:Logo Ansible
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png
+    -> alt:Logo Mysql
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> alt:Logo Postgre SQL
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> alt:Envoi en cours ...
+Rgaa30-1-2-2: NOT_APPLICABLE
+Rgaa30-1-2-3: NOT_APPLICABLE
+Rgaa30-1-2-4: NOT_APPLICABLE
+Rgaa30-1-2-5: NOT_APPLICABLE
+Rgaa30-1-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> title:attribute-absent
+    -> alt:Logo Symfony
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> alt:Logo Drupal
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> alt:Logo Wordpress
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png
+    -> alt:Logo Docker
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png
+    -> alt:Logo Elastic
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png
+    -> alt:Logo Html Js
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> alt:Logo Mirantis
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> title:attribute-absent
+    -> alt:Logo Open Stack
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png
+    -> title:attribute-absent
+    -> alt:Logo Drupal
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png
+    -> title:attribute-absent
+    -> alt:Logo Microsoft Azure
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png
+    -> alt:Logo php
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> title:attribute-absent
+    -> alt:Logo Zend
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png
+    -> alt:Logo Blue Mind
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> alt:Logo Ansible
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png
+    -> alt:Logo Mysql
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png
+    -> alt:Logo Postgre SQL
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> title:attribute-absent
+    -> alt:Envoi en cours ...
+Rgaa30-1-3-2: NOT_APPLICABLE
+Rgaa30-1-3-3: NOT_APPLICABLE
+Rgaa30-1-3-4: NOT_APPLICABLE
+Rgaa30-1-3-5: NOT_APPLICABLE
+Rgaa30-1-3-6: NOT_APPLICABLE
+Rgaa30-1-3-7: NOT_APPLICABLE
+Rgaa30-1-3-8: NOT_APPLICABLE
+Rgaa30-1-3-9: NOT_APPLICABLE
+Rgaa30-1-4-1: NOT_APPLICABLE
+Rgaa30-1-4-2: NOT_APPLICABLE
+Rgaa30-1-4-3: NOT_APPLICABLE
+Rgaa30-1-4-4: NOT_APPLICABLE
+Rgaa30-1-4-5: NOT_APPLICABLE
+Rgaa30-1-4-6: NOT_APPLICABLE
+Rgaa30-1-4-7: NOT_APPLICABLE
+Rgaa30-1-4-8: NOT_APPLICABLE
+Rgaa30-1-4-9: NOT_APPLICABLE
+Rgaa30-1-5-1: NOT_APPLICABLE
+Rgaa30-1-5-2: NOT_APPLICABLE
+Rgaa30-1-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png
+    -> alt:Logo Symfony
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> longdesc:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png
+    -> alt:Logo Drupal
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Wordpress
+    -> longdesc:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Docker
+    -> longdesc:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Elastic
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> longdesc:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png
+    -> alt:Logo Html Js
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> longdesc:attribute-absent
+    -> alt:Logo Mirantis
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Open Stack
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Drupal
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Microsoft Azure
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png
+    -> alt:Logo php
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png
+    -> longdesc:attribute-absent
+    -> alt:Logo Zend
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png
+    -> longdesc:attribute-absent
+    -> alt:Logo Blue Mind
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png
+    -> alt:Logo Ansible
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Logo Mysql
+    -> longdesc:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png
+    -> longdesc:attribute-absent
+    -> alt:Logo Postgre SQL
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> alt:Envoi en cours ...
+    -> longdesc:attribute-absent
+Rgaa30-1-6-2: NOT_APPLICABLE
+Rgaa30-1-6-3: NOT_APPLICABLE
+Rgaa30-1-6-4: NOT_APPLICABLE
+Rgaa30-1-6-5: NOT_APPLICABLE
+Rgaa30-1-6-6: NOT_APPLICABLE
+Rgaa30-1-6-7: NOT_APPLICABLE
+Rgaa30-1-6-8: NOT_APPLICABLE
+Rgaa30-1-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png
+    -> alt:Logo Symfony
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Logo Drupal
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png
+    -> alt:Logo Wordpress
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Logo Docker
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png
+    -> alt:Logo Elastic
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png
+    -> alt:Logo Html Js
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png
+    -> alt:Logo Mirantis
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Logo Open Stack
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png
+    -> alt:Logo Drupal
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png
+    -> alt:Logo Microsoft Azure
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png
+    -> alt:Logo php
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png
+    -> alt:Logo Zend
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Logo Blue Mind
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Logo Ansible
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png
+    -> alt:Logo Mysql
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png
+    -> alt:Logo Postgre SQL
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Envoi en cours ...
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-7-2: NOT_APPLICABLE
+Rgaa30-1-7-3: NOT_APPLICABLE
+Rgaa30-1-7-4: NOT_APPLICABLE
+Rgaa30-1-7-5: NOT_APPLICABLE
+Rgaa30-1-7-6: NOT_APPLICABLE
+Rgaa30-1-7-7: NOT_APPLICABLE
+Rgaa30-1-8-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/assets/images/LOGO_AW_10ANS.gif
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2016/10/japaw.jpg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2016/10/japaw.jpg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/11/POSS.jpg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2016/09/msexperience16aw.jpg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2016/09/certified-1.jpg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/12/femmesingenieures.jpeg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2016/08/conf%C3%A9renceawc.jpg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/09/recrutment2.jpeg
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-8-2: NOT_APPLICABLE
+Rgaa30-1-8-3: NOT_APPLICABLE
+Rgaa30-1-8-4: NOT_APPLICABLE
+Rgaa30-1-8-5: NOT_APPLICABLE
+Rgaa30-1-8-6: NOT_APPLICABLE
+Rgaa30-2-1-1: PASSED
+Rgaa30-2-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTitleOfIframePertinence
+    -> title:recaptcha widget
+Rgaa30-3-3-1: FAILED
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Foreground-Color:rgb(128; 128; 128)
+    -> Contrast:3.95
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(128; 128; 128)
+    -> Contrast:3.95
+    -> Background-Color:rgb(255; 255; 255)
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Contrast:3.95
+    -> Foreground-Color:rgb(128; 128; 128)
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Contrast:2.62
+    -> Background-Color:rgb(53; 171; 221)
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Contrast:2.62
+    -> Background-Color:rgb(53; 171; 221)
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Foreground-Color:rgb(128; 128; 128)
+    -> Contrast:3.95
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(53; 171; 221)
+    -> Contrast:2.62
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(53; 171; 221)
+    -> Contrast:2.62
+    -> Foreground-Color:rgb(255; 255; 255)
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Foreground-Color:rgb(128; 128; 128)
+    -> Contrast:3.95
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Contrast:3.95
+    -> Foreground-Color:rgb(128; 128; 128)
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Contrast:3.95
+    -> Foreground-Color:rgb(128; 128; 128)
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(53; 171; 221)
+    -> Contrast:2.62
+    -> Foreground-Color:rgb(255; 255; 255)
+ ->  FAILED BadContrast
+    -> Contrast:2.62
+    -> Background-Color:rgb(53; 171; 221)
+    -> Foreground-Color:rgb(255; 255; 255)
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Contrast:1.00
+    -> Background-Color:rgb(255; 255; 255)
+ ->  FAILED BadContrast
+    -> Background-Color:rgb(255; 255; 255)
+    -> Contrast:1.00
+    -> Foreground-Color:rgb(255; 255; 255)
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:linear-gradient(rgb(0, 136, 204), rgb(0, 68, 204))
+Rgaa30-3-3-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTheContrastOfImagesWithText
+Rgaa30-3-3-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/first-screen.png')
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/second-screen.png')
+Rgaa30-3-3-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/second-screen.png')
+Rgaa30-4-22-1: NOT_APPLICABLE
+Rgaa30-4-22-2: NOT_APPLICABLE
+Rgaa30-5-1-1: NOT_APPLICABLE
+Rgaa30-5-2-1: NOT_APPLICABLE
+Rgaa30-5-3-1: NOT_APPLICABLE
+Rgaa30-5-4-1: NOT_APPLICABLE
+Rgaa30-5-5-1: NOT_APPLICABLE
+Rgaa30-5-6-1: NOT_APPLICABLE
+Rgaa30-5-6-2: NOT_APPLICABLE
+Rgaa30-5-7-1: NOT_APPLICABLE
+Rgaa30-5-7-2: NOT_APPLICABLE
+Rgaa30-5-7-3: NOT_APPLICABLE
+Rgaa30-5-7-4: NOT_APPLICABLE
+Rgaa30-5-8-1: NOT_APPLICABLE
+Rgaa30-6-1-1: FAILED
+ ->  FAILED UnexplicitLink
+    -> text:En savoir plus
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller au menu
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller au contenu
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller à la recherche
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Retrouvez alter way à la Journée Ambition PME le...
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:4 octobre 2016
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Cette année, la 8ème édition de la Journée Ambition PME (JAP) aura lieu le 13 octobre à l’Eurosites Georges V. Organisée par Systematic Paris-Region, la JAP est un rendez-vous dédié …
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO UnexplicitLinkWithContext
+    -> title:attribute-absent
+    -> text:Lire la suite
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:#OSSParis16 : empowering open innovation !
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:4 octobre 2016
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:alter way présent aux Microsoft experiences’16
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:30 septembre 2016
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:alter way obtient son agrément CIR
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:22 septembre 2016
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Retrouvez alter way aux 8e Rencontres nationales de la...
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:7 septembre 2016
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:#devopsdday : the Twelve- factor App with Docker
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:29 août 2016
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:RDV au Day-Click : votre job s’y trouve !
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:2 août 2016
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:À propos
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Agences
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Design
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Build
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Run
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Train
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Nos clients
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos partenaires
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Carrière
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:LE BLOG
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Mentions Légales - CGV - ©‎2015 alter way
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Ok
+Rgaa30-6-1-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:logo alter way
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:japaw
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:japaw
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:POSS
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:msexperience16aw
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:certified
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:femmesingenieures
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:conférenceawc
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:recrutment2
+    -> title:attribute-absent
+Rgaa30-6-1-3: NOT_APPLICABLE
+Rgaa30-6-1-4: FAILED
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:Agence digitale (studio graphique, intégration, conseils,...)
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:Ingénierie (conseil et expertise, développement,...)
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:Infogérance, hébergement, cloud TMA, support
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:Formations intra ou inter entreprises
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:il y a 2 jours
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:il y a 2 jours
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:il y a 2 jours
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:toutes nos actualités
+ ->  FAILED UnexplicitLink
+    -> title:attribute-absent
+    -> text:Previous
+ ->  FAILED UnexplicitLink
+    -> text:Next
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Alter Way
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:L’équipe
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Le projet
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:#web #opensource #devops
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Agences
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos Offres
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Run
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Build
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Design
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Train
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos clients
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos partenaires
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Actualités
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Carrière
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:Voir sur google
+    -> text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France
+ ->  NEED_MORE_INFO UnexplicitLinkWithContext
+    -> text:+33 (0) 1 41 16 34 95
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:contact@alterway.fr
+Rgaa30-6-1-5: NOT_APPLICABLE
+Rgaa30-6-2-1: NOT_APPLICABLE
+Rgaa30-6-2-2: NOT_APPLICABLE
+Rgaa30-6-2-3: NOT_APPLICABLE
+Rgaa30-6-2-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO SuspectedNotPertinentLinkTitle
+    -> text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France
+    -> title:Voir sur google
+Rgaa30-6-2-5: NOT_APPLICABLE
+Rgaa30-6-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO SuspectedIdenticalLinkWithDifferentTarget
+    -> Element-Name:4 octobre 2016
+    -> href:https://www.alterway.fr/retrouvez-alter-way-a-la-journee-ambition-pme-le-13-octobre/
+    -> text:4 octobre 2016
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO SuspectedIdenticalLinkWithDifferentTarget
+    -> href:https://www.alterway.fr/ossparis16-empowering-open-innovation/
+    -> text:4 octobre 2016
+    -> Element-Name:4 octobre 2016
+    -> title:attribute-absent
+Rgaa30-6-4-2: PASSED
+Rgaa30-6-4-3: NOT_APPLICABLE
+Rgaa30-6-4-4: FAILED
+ ->  FAILED IdenticalLinkWithDifferentTarget
+    -> text:il y a 2 jours
+    -> title:attribute-absent
+    -> Element-Name:il y a 2 jours
+    -> href:https://twitter.com/intent/retweet?tweet_id=784465990218293248
+ ->  FAILED IdenticalLinkWithDifferentTarget
+    -> Element-Name:il y a 2 jours
+    -> text:il y a 2 jours
+    -> href:https://twitter.com/intent/retweet?tweet_id=784465825336004608
+    -> title:attribute-absent
+ ->  FAILED IdenticalLinkWithDifferentTarget
+    -> href:https://twitter.com/intent/retweet?tweet_id=784465796785377282
+    -> title:attribute-absent
+    -> text:il y a 2 jours
+    -> Element-Name:il y a 2 jours
+Rgaa30-6-4-5: NOT_APPLICABLE
+Rgaa30-6-5-1: FAILED
+ ->  FAILED EmptyLink
+    -> href:https://www.alterway.fr/retrouvez-alter-way-a-la-journee-ambition-pme-le-13-octobre/
+ ->  FAILED EmptyLink
+    -> href:https://www.alterway.fr/#
+ ->  FAILED EmptyLink
+    -> href:https://www.alterway.fr/#
+ ->  FAILED EmptyLink
+    -> href:https://www.alterway.fr/#
+ ->  FAILED EmptyLink
+    -> href:https://twitter.com/alterway
+ ->  FAILED EmptyLink
+    -> href:https://www.linkedin.com/company/alter-way
+ ->  FAILED EmptyLink
+    -> href:https://www.youtube.com/channel/UC8k7NlqYUnaAYBOi2Ri70uw
+ ->  FAILED EmptyLink
+    -> href:https://www.facebook.com/Alterway.Officiel/
+ ->  FAILED EmptyLink
+    -> href:https://plus.google.com/116700027485997385305/posts
+ ->  FAILED EmptyLink
+    -> href:http://fr.viadeo.com/fr/company/alter-way
+Rgaa30-7-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NoPatternDetected_Rgaa30-7-4-1
+Rgaa30-8-1-1: PASSED
+Rgaa30-8-1-2: PASSED
+Rgaa30-8-1-3: PASSED
+Rgaa30-8-3-1: PASSED
+Rgaa30-8-4-1: PASSED
+Rgaa30-8-5-1: PASSED
+Rgaa30-8-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTitlePertinence
+    -> text:alter way - Web, Open Source, DevOps
+Rgaa30-8-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyShortText
+Rgaa30-8-8-1: PASSED
+Rgaa30-8-8-2: PASSED
+Rgaa30-8-9-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NoPatternDetected_Rgaa30-8-9-1
+Rgaa30-9-1-1: PASSED
+Rgaa30-9-1-2: PASSED
+Rgaa30-9-1-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:alter way
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> text:vous avez un projet ? contactez-nous
+    -> Element-Name:headings
+Rgaa30-10-1-1: PASSED
+Rgaa30-10-1-2: FAILED
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:height
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:width
+Rgaa30-10-4-1: NOT_APPLICABLE
+Rgaa30-10-4-2: NOT_APPLICABLE
+Rgaa30-10-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO InvisibleOutlineOnFocus
+ ->  NEED_MORE_INFO InvisibleOutlineOnFocus
+ ->  NEED_MORE_INFO InvisibleOutlineOnFocus
+ ->  NEED_MORE_INFO CheckManuallyOutlineForFormElementAndIframe
+Rgaa30-10-13-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+Rgaa30-11-1-1: FAILED
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+Rgaa30-11-1-2: FAILED
+ ->  FAILED IdMissing
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+Rgaa30-11-1-3: NOT_APPLICABLE
+Rgaa30-11-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-2-2: NOT_APPLICABLE
+Rgaa30-11-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-5-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-6-1: NOT_APPLICABLE
+Rgaa30-11-7-1: NOT_APPLICABLE
+Rgaa30-11-8-1: NOT_APPLICABLE
+Rgaa30-11-8-2: NOT_APPLICABLE
+Rgaa30-11-8-3: NOT_APPLICABLE
+Rgaa30-11-9-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-9-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-7: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-11-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-11-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-12-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-12-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-13-1-2: NOT_APPLICABLE
+Rgaa30-13-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> title:attribute-absent
+    -> text:
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> title:attribute-absent
+    -> text:
+Rgaa30-13-2-2: NOT_APPLICABLE
+Rgaa30-13-2-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+Rgaa30-13-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-1
+Rgaa30-13-6-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-2
+Rgaa30-13-6-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-3
+Rgaa30-13-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-7-1
+
+Subject : https://www.alterway.fr/train/
+RawMark : 63.16%
+WeightedMark : 65.0829%
+Nb Passed : 12
+Nb Failed test : 7
+Nb Failed occurences : 37
+Nb Pre-qualified : 37
+Nb Not Applicable : 81
+Nb Not Tested : 137
+Rgaa30-1-1-1: PASSED
+Rgaa30-1-1-2: NOT_APPLICABLE
+Rgaa30-1-1-3: NOT_APPLICABLE
+Rgaa30-1-1-4: NOT_APPLICABLE
+Rgaa30-1-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png
+    -> title:attribute-absent
+    -> alt:ecran-offres-train
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> alt:Envoi en cours ...
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> title:attribute-absent
+Rgaa30-1-2-2: NOT_APPLICABLE
+Rgaa30-1-2-3: NOT_APPLICABLE
+Rgaa30-1-2-4: NOT_APPLICABLE
+Rgaa30-1-2-5: NOT_APPLICABLE
+Rgaa30-1-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageWithNotPertinentAlt
+    -> src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png
+    -> alt:ecran-offres-train
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> alt:Envoi en cours ...
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-3-2: NOT_APPLICABLE
+Rgaa30-1-3-3: NOT_APPLICABLE
+Rgaa30-1-3-4: NOT_APPLICABLE
+Rgaa30-1-3-5: NOT_APPLICABLE
+Rgaa30-1-3-6: NOT_APPLICABLE
+Rgaa30-1-3-7: NOT_APPLICABLE
+Rgaa30-1-3-8: NOT_APPLICABLE
+Rgaa30-1-3-9: NOT_APPLICABLE
+Rgaa30-1-4-1: NOT_APPLICABLE
+Rgaa30-1-4-2: NOT_APPLICABLE
+Rgaa30-1-4-3: NOT_APPLICABLE
+Rgaa30-1-4-4: NOT_APPLICABLE
+Rgaa30-1-4-5: NOT_APPLICABLE
+Rgaa30-1-4-6: NOT_APPLICABLE
+Rgaa30-1-4-7: NOT_APPLICABLE
+Rgaa30-1-4-8: NOT_APPLICABLE
+Rgaa30-1-4-9: NOT_APPLICABLE
+Rgaa30-1-5-1: NOT_APPLICABLE
+Rgaa30-1-5-2: NOT_APPLICABLE
+Rgaa30-1-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png
+    -> longdesc:attribute-absent
+    -> alt:ecran-offres-train
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> alt:Envoi en cours ...
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> longdesc:attribute-absent
+Rgaa30-1-6-2: NOT_APPLICABLE
+Rgaa30-1-6-3: NOT_APPLICABLE
+Rgaa30-1-6-4: NOT_APPLICABLE
+Rgaa30-1-6-5: NOT_APPLICABLE
+Rgaa30-1-6-6: NOT_APPLICABLE
+Rgaa30-1-6-7: NOT_APPLICABLE
+Rgaa30-1-6-8: NOT_APPLICABLE
+Rgaa30-1-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png
+    -> alt:ecran-offres-train
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> alt:Envoi en cours ...
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-7-2: NOT_APPLICABLE
+Rgaa30-1-7-3: NOT_APPLICABLE
+Rgaa30-1-7-4: NOT_APPLICABLE
+Rgaa30-1-7-5: NOT_APPLICABLE
+Rgaa30-1-7-6: NOT_APPLICABLE
+Rgaa30-1-7-7: NOT_APPLICABLE
+Rgaa30-1-8-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/assets/images/LOGO_AW_10ANS.gif
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-8-2: NOT_APPLICABLE
+Rgaa30-1-8-3: NOT_APPLICABLE
+Rgaa30-1-8-4: NOT_APPLICABLE
+Rgaa30-1-8-5: NOT_APPLICABLE
+Rgaa30-1-8-6: NOT_APPLICABLE
+Rgaa30-2-1-1: FAILED
+ ->  FAILED TitleAttributeMissing
+    -> src:https://www.youtube.com/embed/Ck2XJeY4p00
+Rgaa30-2-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTitleOfIframePertinence
+    -> title:recaptcha widget
+Rgaa30-3-3-1: FAILED
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(94; 130; 58)
+    -> Contrast:4.44
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(94; 130; 58)
+    -> Contrast:4.44
+ ->  FAILED BadContrast
+    -> Contrast:4.44
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(94; 130; 58)
+ ->  FAILED BadContrast
+    -> Contrast:4.44
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(94; 130; 58)
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:linear-gradient(rgb(0, 136, 204), rgb(0, 68, 204))
+Rgaa30-3-3-2: FAILED
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Contrast:4.44
+    -> Background-Color:rgb(94; 130; 58)
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(94; 130; 58)
+    -> Contrast:4.44
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Background-Color:rgb(94; 130; 58)
+    -> Contrast:4.44
+ ->  FAILED BadContrast
+    -> Foreground-Color:rgb(255; 255; 255)
+    -> Contrast:4.44
+    -> Background-Color:rgb(94; 130; 58)
+Rgaa30-3-3-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/train.png')
+Rgaa30-3-3-4: NOT_APPLICABLE
+Rgaa30-4-22-1: NOT_APPLICABLE
+Rgaa30-4-22-2: NOT_APPLICABLE
+Rgaa30-5-1-1: NOT_APPLICABLE
+Rgaa30-5-2-1: NOT_APPLICABLE
+Rgaa30-5-3-1: NOT_APPLICABLE
+Rgaa30-5-4-1: NOT_APPLICABLE
+Rgaa30-5-5-1: NOT_APPLICABLE
+Rgaa30-5-6-1: NOT_APPLICABLE
+Rgaa30-5-6-2: NOT_APPLICABLE
+Rgaa30-5-7-1: NOT_APPLICABLE
+Rgaa30-5-7-2: NOT_APPLICABLE
+Rgaa30-5-7-3: NOT_APPLICABLE
+Rgaa30-5-7-4: NOT_APPLICABLE
+Rgaa30-5-8-1: NOT_APPLICABLE
+Rgaa30-6-1-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller au menu
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller au contenu
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller à la recherche
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Docker
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:notre site formation
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:À propos
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Agences
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Design
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Build
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Run
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Train
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos clients
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Nos partenaires
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Carrière
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:LE BLOG
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Mentions Légales - CGV - ©‎2015 alter way
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Ok
+    -> title:attribute-absent
+Rgaa30-6-1-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:logo alter way
+Rgaa30-6-1-3: NOT_APPLICABLE
+Rgaa30-6-1-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Alter Way
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:L’équipe
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Le projet
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:#web #opensource #devops
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Agences
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Nos Offres
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Run
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Build
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Design
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Train
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Nos clients
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos partenaires
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Actualités
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Carrière
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:Voir sur google
+    -> text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France
+ ->  NEED_MORE_INFO UnexplicitLinkWithContext
+    -> title:attribute-absent
+    -> text:+33 (0) 1 41 16 34 95
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:contact@alterway.fr
+Rgaa30-6-1-5: NOT_APPLICABLE
+Rgaa30-6-2-1: NOT_APPLICABLE
+Rgaa30-6-2-2: NOT_APPLICABLE
+Rgaa30-6-2-3: NOT_APPLICABLE
+Rgaa30-6-2-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO SuspectedNotPertinentLinkTitle
+    -> title:Voir sur google
+    -> text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France
+Rgaa30-6-2-5: NOT_APPLICABLE
+Rgaa30-6-4-1: NOT_APPLICABLE
+Rgaa30-6-4-2: NOT_APPLICABLE
+Rgaa30-6-4-3: NOT_APPLICABLE
+Rgaa30-6-4-4: NOT_APPLICABLE
+Rgaa30-6-4-5: NOT_APPLICABLE
+Rgaa30-6-5-1: FAILED
+ ->  FAILED EmptyLink
+    -> href:https://twitter.com/alterway
+ ->  FAILED EmptyLink
+    -> href:https://www.linkedin.com/company/alter-way
+ ->  FAILED EmptyLink
+    -> href:https://www.youtube.com/channel/UC8k7NlqYUnaAYBOi2Ri70uw
+ ->  FAILED EmptyLink
+    -> href:https://www.facebook.com/Alterway.Officiel/
+ ->  FAILED EmptyLink
+    -> href:https://plus.google.com/116700027485997385305/posts
+ ->  FAILED EmptyLink
+    -> href:http://fr.viadeo.com/fr/company/alter-way
+Rgaa30-7-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NoPatternDetected_Rgaa30-7-4-1
+Rgaa30-8-1-1: PASSED
+Rgaa30-8-1-2: PASSED
+Rgaa30-8-1-3: PASSED
+Rgaa30-8-3-1: PASSED
+Rgaa30-8-4-1: PASSED
+Rgaa30-8-5-1: PASSED
+Rgaa30-8-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTitlePertinence
+    -> text:Train - Alter Way
+Rgaa30-8-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyShortText
+Rgaa30-8-8-1: PASSED
+Rgaa30-8-8-2: PASSED
+Rgaa30-8-9-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NoPatternDetected_Rgaa30-8-9-1
+Rgaa30-9-1-1: PASSED
+Rgaa30-9-1-2: PASSED
+Rgaa30-9-1-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:Web :
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> text:Développement :
+    -> Element-Name:headings
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> text:Infrastructure :
+    -> Element-Name:headings
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> text:Formations officielles :
+    -> Element-Name:headings
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:Accessibilité web :
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:Progiciels :
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:pour aller plus loin…
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:alter way
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> Element-Name:headings
+    -> text:vous avez un projet ? contactez-nous
+Rgaa30-10-1-1: PASSED
+Rgaa30-10-1-2: FAILED
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:height
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:height
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:width
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:width
+Rgaa30-10-4-1: NOT_APPLICABLE
+Rgaa30-10-4-2: NOT_APPLICABLE
+Rgaa30-10-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO InvisibleOutlineOnFocus
+ ->  NEED_MORE_INFO CheckManuallyOutlineForFormElementAndIframe
+Rgaa30-10-13-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+Rgaa30-11-1-1: FAILED
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+Rgaa30-11-1-2: FAILED
+ ->  FAILED IdMissing
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+Rgaa30-11-1-3: NOT_APPLICABLE
+Rgaa30-11-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-2-2: NOT_APPLICABLE
+Rgaa30-11-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-5-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-6-1: NOT_APPLICABLE
+Rgaa30-11-7-1: NOT_APPLICABLE
+Rgaa30-11-8-1: NOT_APPLICABLE
+Rgaa30-11-8-2: NOT_APPLICABLE
+Rgaa30-11-8-3: NOT_APPLICABLE
+Rgaa30-11-9-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-9-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-7: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-11-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-11-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-12-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-12-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-13-1-2: NOT_APPLICABLE
+Rgaa30-13-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> title:attribute-absent
+    -> text:
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+Rgaa30-13-2-2: NOT_APPLICABLE
+Rgaa30-13-2-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+Rgaa30-13-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-1
+Rgaa30-13-6-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-2
+Rgaa30-13-6-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-3
+Rgaa30-13-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-7-1
+
+Subject : https://www.alterway.fr/agences/
+RawMark : 76.47%
+WeightedMark : 71.7156%
+Nb Passed : 13
+Nb Failed test : 4
+Nb Failed occurences : 26
+Nb Pre-qualified : 39
+Nb Not Applicable : 81
+Nb Not Tested : 137
+Rgaa30-1-1-1: PASSED
+Rgaa30-1-1-2: NOT_APPLICABLE
+Rgaa30-1-1-3: NOT_APPLICABLE
+Rgaa30-1-1-4: NOT_APPLICABLE
+Rgaa30-1-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> title:attribute-absent
+    -> alt:carte-agences
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> title:attribute-absent
+    -> alt:Envoi en cours ...
+Rgaa30-1-2-2: NOT_APPLICABLE
+Rgaa30-1-2-3: NOT_APPLICABLE
+Rgaa30-1-2-4: NOT_APPLICABLE
+Rgaa30-1-2-5: NOT_APPLICABLE
+Rgaa30-1-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageWithNotPertinentAlt
+    -> alt:carte-agences
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndAltPertinence
+    -> alt:Envoi en cours ...
+    -> title:attribute-absent
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-3-2: NOT_APPLICABLE
+Rgaa30-1-3-3: NOT_APPLICABLE
+Rgaa30-1-3-4: NOT_APPLICABLE
+Rgaa30-1-3-5: NOT_APPLICABLE
+Rgaa30-1-3-6: NOT_APPLICABLE
+Rgaa30-1-3-7: NOT_APPLICABLE
+Rgaa30-1-3-8: NOT_APPLICABLE
+Rgaa30-1-3-9: NOT_APPLICABLE
+Rgaa30-1-4-1: NOT_APPLICABLE
+Rgaa30-1-4-2: NOT_APPLICABLE
+Rgaa30-1-4-3: NOT_APPLICABLE
+Rgaa30-1-4-4: NOT_APPLICABLE
+Rgaa30-1-4-5: NOT_APPLICABLE
+Rgaa30-1-4-6: NOT_APPLICABLE
+Rgaa30-1-4-7: NOT_APPLICABLE
+Rgaa30-1-4-8: NOT_APPLICABLE
+Rgaa30-1-4-9: NOT_APPLICABLE
+Rgaa30-1-5-1: NOT_APPLICABLE
+Rgaa30-1-5-2: NOT_APPLICABLE
+Rgaa30-1-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png
+    -> alt:carte-agences
+    -> longdesc:attribute-absent
+ ->  NEED_MORE_INFO CheckNatureOfImageAndLongdescDefinition
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> alt:Envoi en cours ...
+    -> longdesc:attribute-absent
+Rgaa30-1-6-2: NOT_APPLICABLE
+Rgaa30-1-6-3: NOT_APPLICABLE
+Rgaa30-1-6-4: NOT_APPLICABLE
+Rgaa30-1-6-5: NOT_APPLICABLE
+Rgaa30-1-6-6: NOT_APPLICABLE
+Rgaa30-1-6-7: NOT_APPLICABLE
+Rgaa30-1-6-8: NOT_APPLICABLE
+Rgaa30-1-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png
+    -> alt:carte-agences
+ ->  NEED_MORE_INFO CheckNatureOfImageAndDescriptionPertinence
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> alt:Envoi en cours ...
+Rgaa30-1-7-2: NOT_APPLICABLE
+Rgaa30-1-7-3: NOT_APPLICABLE
+Rgaa30-1-7-4: NOT_APPLICABLE
+Rgaa30-1-7-5: NOT_APPLICABLE
+Rgaa30-1-7-6: NOT_APPLICABLE
+Rgaa30-1-7-7: NOT_APPLICABLE
+Rgaa30-1-8-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/themes/alterway-corp/assets/images/LOGO_AW_10ANS.gif
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png
+ ->  NEED_MORE_INFO CheckNatureOfImageAndStyledTextPresence
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+Rgaa30-1-8-2: NOT_APPLICABLE
+Rgaa30-1-8-3: NOT_APPLICABLE
+Rgaa30-1-8-4: NOT_APPLICABLE
+Rgaa30-1-8-5: NOT_APPLICABLE
+Rgaa30-1-8-6: NOT_APPLICABLE
+Rgaa30-2-1-1: PASSED
+Rgaa30-2-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTitleOfIframePertinence
+    -> title:recaptcha widget
+Rgaa30-3-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/email-agences.png')
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:linear-gradient(rgb(0, 136, 204), rgb(0, 68, 204))
+Rgaa30-3-3-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTheContrastOfImagesWithText
+Rgaa30-3-3-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/agences.png')
+Rgaa30-3-3-4: NOT_APPLICABLE
+Rgaa30-4-22-1: NOT_APPLICABLE
+Rgaa30-4-22-2: NOT_APPLICABLE
+Rgaa30-5-1-1: NOT_APPLICABLE
+Rgaa30-5-2-1: NOT_APPLICABLE
+Rgaa30-5-3-1: NOT_APPLICABLE
+Rgaa30-5-4-1: NOT_APPLICABLE
+Rgaa30-5-5-1: NOT_APPLICABLE
+Rgaa30-5-6-1: NOT_APPLICABLE
+Rgaa30-5-6-2: NOT_APPLICABLE
+Rgaa30-5-7-1: NOT_APPLICABLE
+Rgaa30-5-7-2: NOT_APPLICABLE
+Rgaa30-5-7-3: NOT_APPLICABLE
+Rgaa30-5-7-4: NOT_APPLICABLE
+Rgaa30-5-8-1: NOT_APPLICABLE
+Rgaa30-6-1-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:paris@alterway.fr
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> title:attribute-absent
+    -> text:lille@alterway.fr
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:lyon@alterway.fr
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller au menu
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller au contenu
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Aller à la recherche
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:T + 33 (0)1 41 16 34 95
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:T +33 (0)1 41 16 83 40
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:T +33 (0)1 41 16 83 15
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:À propos
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Agences
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Design
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Build
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Run
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Train
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Nos clients
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos partenaires
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Carrière
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:LE BLOG
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Mentions Légales - CGV - ©‎2015 alter way
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Ok
+    -> title:attribute-absent
+Rgaa30-6-1-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithoutContextPertinence
+    -> text:logo alter way
+    -> title:attribute-absent
+Rgaa30-6-1-3: NOT_APPLICABLE
+Rgaa30-6-1-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Alter Way
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:L’équipe
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Le projet
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:#web #opensource #devops
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Agences
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Nos Offres
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Run
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Build
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Design
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:Train
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos clients
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Nos partenaires
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Actualités
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:Carrière
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France
+    -> title:Voir sur google
+ ->  NEED_MORE_INFO UnexplicitLinkWithContext
+    -> title:attribute-absent
+    -> text:+33 (0) 1 41 16 34 95
+ ->  NEED_MORE_INFO CheckLinkWithContextPertinence
+    -> title:attribute-absent
+    -> text:contact@alterway.fr
+Rgaa30-6-1-5: NOT_APPLICABLE
+Rgaa30-6-2-1: NOT_APPLICABLE
+Rgaa30-6-2-2: NOT_APPLICABLE
+Rgaa30-6-2-3: NOT_APPLICABLE
+Rgaa30-6-2-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO SuspectedNotPertinentLinkTitle
+    -> title:Voir sur google
+    -> text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France
+Rgaa30-6-2-5: NOT_APPLICABLE
+Rgaa30-6-4-1: NOT_APPLICABLE
+Rgaa30-6-4-2: NOT_APPLICABLE
+Rgaa30-6-4-3: NOT_APPLICABLE
+Rgaa30-6-4-4: NOT_APPLICABLE
+Rgaa30-6-4-5: NOT_APPLICABLE
+Rgaa30-6-5-1: FAILED
+ ->  FAILED EmptyLink
+    -> href:https://twitter.com/alterway
+ ->  FAILED EmptyLink
+    -> href:https://www.linkedin.com/company/alter-way
+ ->  FAILED EmptyLink
+    -> href:https://www.youtube.com/channel/UC8k7NlqYUnaAYBOi2Ri70uw
+ ->  FAILED EmptyLink
+    -> href:https://www.facebook.com/Alterway.Officiel/
+ ->  FAILED EmptyLink
+    -> href:https://plus.google.com/116700027485997385305/posts
+ ->  FAILED EmptyLink
+    -> href:http://fr.viadeo.com/fr/company/alter-way
+Rgaa30-7-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NoPatternDetected_Rgaa30-7-4-1
+Rgaa30-8-1-1: PASSED
+Rgaa30-8-1-2: PASSED
+Rgaa30-8-1-3: PASSED
+Rgaa30-8-3-1: PASSED
+Rgaa30-8-4-1: PASSED
+Rgaa30-8-5-1: PASSED
+Rgaa30-8-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckTitlePertinence
+    -> text:Agences - Alter Way
+Rgaa30-8-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyShortText
+Rgaa30-8-8-1: PASSED
+Rgaa30-8-8-2: PASSED
+Rgaa30-8-9-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NoPatternDetected_Rgaa30-8-9-1
+Rgaa30-9-1-1: PASSED
+Rgaa30-9-1-2: PASSED
+Rgaa30-9-1-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> text:alter way
+    -> Element-Name:headings
+ ->  NEED_MORE_INFO CheckHeadingPertinence
+    -> text:vous avez un projet ? contactez-nous
+    -> Element-Name:headings
+Rgaa30-10-1-1: PASSED
+Rgaa30-10-1-2: FAILED
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:height
+ ->  FAILED PresentationAttrFound
+    -> Element-Name:width
+Rgaa30-10-4-1: NOT_APPLICABLE
+Rgaa30-10-4-2: NOT_APPLICABLE
+Rgaa30-10-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO InvisibleOutlineOnFocus
+ ->  NEED_MORE_INFO CheckManuallyOutlineForFormElementAndIframe
+Rgaa30-10-13-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+ ->  NEED_MORE_INFO HiddenTextDetected
+Rgaa30-11-1-1: FAILED
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+ ->  FAILED InvalidFormField
+Rgaa30-11-1-2: FAILED
+ ->  FAILED IdMissing
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+ ->  FAILED InvalidInput
+Rgaa30-11-1-3: NOT_APPLICABLE
+Rgaa30-11-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-2-2: NOT_APPLICABLE
+Rgaa30-11-3-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-4-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+    -> text:Search for:
+Rgaa30-11-5-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-6-1: NOT_APPLICABLE
+Rgaa30-11-7-1: NOT_APPLICABLE
+Rgaa30-11-8-1: NOT_APPLICABLE
+Rgaa30-11-8-2: NOT_APPLICABLE
+Rgaa30-11-8-3: NOT_APPLICABLE
+Rgaa30-11-9-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-9-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-4: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-10-7: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-11-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-11-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-12-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-11-12-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO ManualCheckOnElements
+ ->  NEED_MORE_INFO ManualCheckOnElements
+Rgaa30-13-1-2: NOT_APPLICABLE
+Rgaa30-13-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> title:attribute-absent
+    -> text:
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> text:
+    -> title:attribute-absent
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> title:attribute-absent
+    -> text:
+ ->  NEED_MORE_INFO CheckUserIsWarnedWhenNewWindowOpen
+    -> title:attribute-absent
+    -> text:
+Rgaa30-13-2-2: NOT_APPLICABLE
+Rgaa30-13-2-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+ ->  NEED_MORE_INFO CheckUserIsWarnedInCaseOfNewWindow
+Rgaa30-13-6-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-1
+Rgaa30-13-6-2: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-2
+Rgaa30-13-6-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-6-3
+Rgaa30-13-7-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckManuallyLinkWithoutExtension_Rgaa30-13-7-1
+

@@ -1,0 +1,38 @@
+Audit terminated with success at 2016-10-10 08:15:02.0
+Audit Id : 29
+RawMark : 77.78%
+WeightedMark : 62.7551%
+Nb Passed : 7
+Nb Failed test : 2
+Nb Failed occurences : 2
+Nb Pre-qualified : 5
+Nb Not Applicable : 123
+Nb Not Tested : 137
+Subject : https://10.50.0.102:8443/#/?_k=je990t
+RawMark : 77.78%
+WeightedMark : 62.7551%
+Nb Passed : 7
+Nb Failed test : 2
+Nb Failed occurences : 2
+Nb Pre-qualified : 5
+Nb Not Applicable : 123
+Nb Not Tested : 137
+Rgaa30-1-1-1: NOT_APPLICABLE
+Rgaa30-1-2-1: NEED_MORE_INFO
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png
+    -> title:attribute-absent
+    -> alt:ecran-offres-train
+ ->  NEED_MORE_INFO CheckNatureOfElementWithNotEmptyAltAttribute
+    -> alt:Envoi en cours ...
+    -> src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+    -> title:attribute-absent
+Rgaa30-3-3-3: NEED_MORE_INFO
+ ->  NEED_MORE_INFO NotTreatedBackgroundColor
+    -> Element-Name:rgba(106; 231; 0; 0.75)
+Rgaa30-8-1-1: PASSED
+Rgaa30-8-4-1: FAILED
+ ->  FAILED MalformedLanguage
+    -> Language:
+Rgaa30-9-1-1: FAILED
+ ->  FAILED H1TagMissing

@@ -1,0 +1,5729 @@
+{
+  "finishedAt": "2016-10-10 09:02:46.0",
+  "auditId": 30,
+  "error": false,
+  "summary": {
+    "rawMark": "67.24%",
+    "weightedMark": "66.6036%",
+    "nbPassed": 39,
+    "nbFailedTest": 19,
+    "nbFailedOccurences": 114,
+    "nbPreQualified": 114,
+    "nbNotApplicable": 239,
+    "nbNotTested": 411
+  },
+  "pages": [
+    {
+      "url": "https://www.alterway.fr/",
+      "summary": {
+        "rawMark": "63.64%",
+        "weightedMark": "63.4444%",
+        "nbPassed": 14,
+        "nbFailedTest": 8,
+        "nbFailedOccurences": 51,
+        "nbPreQualified": 38,
+        "nbNotApplicable": 77,
+        "nbNotTested": 137
+      },
+      "tests": [
+        {
+          "testId": "Rgaa30-1-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-1-1-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-1-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Symfony",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Drupal",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Wordpress",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Docker",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Elastic",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png",
+                "alt:Logo Html Js",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png",
+                "alt:Logo Mirantis"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Open Stack",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png",
+                "title:attribute-absent",
+                "alt:Logo Drupal"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png",
+                "alt:Logo Microsoft Azure",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo php",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png",
+                "alt:Logo Zend"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png",
+                "alt:Logo Blue Mind",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png",
+                "alt:Logo Ansible",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png",
+                "alt:Logo Mysql",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Postgre SQL",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "alt:Envoi en cours ..."
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Symfony",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Drupal",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Wordpress",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png",
+                "alt:Logo Docker",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png",
+                "alt:Logo Elastic",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png",
+                "alt:Logo Html Js"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Mirantis",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Open Stack",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png",
+                "title:attribute-absent",
+                "alt:Logo Drupal"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png",
+                "title:attribute-absent",
+                "alt:Logo Microsoft Azure"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png",
+                "alt:Logo php"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:Logo Zend",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png",
+                "alt:Logo Blue Mind",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Ansible",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png",
+                "alt:Logo Mysql"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png",
+                "alt:Logo Postgre SQL",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "title:attribute-absent",
+                "alt:Envoi en cours ..."
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-3-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-9",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-9",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-5-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-5-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png",
+                "alt:Logo Symfony",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "longdesc:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png",
+                "alt:Logo Drupal"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Wordpress",
+                "longdesc:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Docker",
+                "longdesc:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Elastic",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "longdesc:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png",
+                "alt:Logo Html Js"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "longdesc:attribute-absent",
+                "alt:Logo Mirantis",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Open Stack",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Drupal",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Microsoft Azure",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png",
+                "alt:Logo php",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png",
+                "longdesc:attribute-absent",
+                "alt:Logo Zend"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png",
+                "longdesc:attribute-absent",
+                "alt:Logo Blue Mind"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png",
+                "alt:Logo Ansible",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Mysql",
+                "longdesc:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png",
+                "longdesc:attribute-absent",
+                "alt:Logo Postgre SQL"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "alt:Envoi en cours ...",
+                "longdesc:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-6-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png",
+                "alt:Logo Symfony"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Drupal",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png",
+                "alt:Logo Wordpress"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Docker",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png",
+                "alt:Logo Elastic"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png",
+                "alt:Logo Html Js"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png",
+                "alt:Logo Mirantis"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Open Stack",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png",
+                "alt:Logo Drupal"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png",
+                "alt:Logo Microsoft Azure"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png",
+                "alt:Logo php"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png",
+                "alt:Logo Zend"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Blue Mind",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Logo Ansible",
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png",
+                "alt:Logo Mysql"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png",
+                "alt:Logo Postgre SQL"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Envoi en cours ...",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-7-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/assets/images/LOGO_AW_10ANS.gif"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2016/10/japaw.jpg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2016/10/japaw.jpg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2015/11/POSS.jpg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2016/09/msexperience16aw.jpg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2016/09/certified-1.jpg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2015/12/femmesingenieures.jpeg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2016/08/conf%C3%A9renceawc.jpg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2015/09/recrutment2.jpeg"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-symfony.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-wordpress.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-docker.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-elastic.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-html-jsl.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo_mirantis.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-open-stack.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-drupal-commerce.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-microsoft-azure.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-php.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-zend.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-bluemind.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-ansible.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-mysql.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/logo-postgresql.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-8-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-2-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-2-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTitleOfIframePertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:recaptcha widget"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Foreground-Color:rgb(128; 128; 128)",
+                "Contrast:3.95"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(128; 128; 128)",
+                "Contrast:3.95",
+                "Background-Color:rgb(255; 255; 255)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Contrast:3.95",
+                "Foreground-Color:rgb(128; 128; 128)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Contrast:2.62",
+                "Background-Color:rgb(53; 171; 221)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Contrast:2.62",
+                "Background-Color:rgb(53; 171; 221)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Foreground-Color:rgb(128; 128; 128)",
+                "Contrast:3.95"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(53; 171; 221)",
+                "Contrast:2.62"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(53; 171; 221)",
+                "Contrast:2.62",
+                "Foreground-Color:rgb(255; 255; 255)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Foreground-Color:rgb(128; 128; 128)",
+                "Contrast:3.95"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Contrast:3.95",
+                "Foreground-Color:rgb(128; 128; 128)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Contrast:3.95",
+                "Foreground-Color:rgb(128; 128; 128)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(53; 171; 221)",
+                "Contrast:2.62",
+                "Foreground-Color:rgb(255; 255; 255)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Contrast:2.62",
+                "Background-Color:rgb(53; 171; 221)",
+                "Foreground-Color:rgb(255; 255; 255)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Contrast:1.00",
+                "Background-Color:rgb(255; 255; 255)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Background-Color:rgb(255; 255; 255)",
+                "Contrast:1.00",
+                "Foreground-Color:rgb(255; 255; 255)"
+              ]
+            },
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:linear-gradient(rgb(0, 136, 204), rgb(0, 68, 204))"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTheContrastOfImagesWithText",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/first-screen.png')"
+              ]
+            },
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/second-screen.png')"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/second-screen.png')"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-4-22-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-4-22-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-1-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-2-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-3-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-5-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-6-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-6-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-8-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-1-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "UnexplicitLink",
+              "failed": true,
+              "details": [
+                "text:En savoir plus",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller au menu"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller au contenu"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller à la recherche"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Retrouvez alter way à la Journée Ambition PME le...",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:4 octobre 2016"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Cette année, la 8ème édition de la Journée Ambition PME (JAP) aura lieu le 13 octobre à l’Eurosites Georges V. Organisée par Systematic Paris-Region, la JAP est un rendez-vous dédié …",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "UnexplicitLinkWithContext",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Lire la suite"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:#OSSParis16 : empowering open innovation !",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:4 octobre 2016",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:alter way présent aux Microsoft experiences’16",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:30 septembre 2016",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:alter way obtient son agrément CIR"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:22 septembre 2016",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Retrouvez alter way aux 8e Rencontres nationales de la...",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:7 septembre 2016"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:#devopsdday : the Twelve- factor App with Docker",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:29 août 2016",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:RDV au Day-Click : votre job s’y trouve !",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:2 août 2016",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:À propos",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Agences",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Design",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Build",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Run",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Train"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Nos clients"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos partenaires",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Carrière",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:LE BLOG",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Mentions Légales - CGV - ©‎2015 alter way"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Ok"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:logo alter way"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:japaw"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:japaw",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:POSS"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:msexperience16aw"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:certified"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:femmesingenieures",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:conférenceawc",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:recrutment2",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-1-4",
+          "failed": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Agence digitale (studio graphique, intégration, conseils,...)"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Ingénierie (conseil et expertise, développement,...)"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Infogérance, hébergement, cloud TMA, support"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Formations intra ou inter entreprises",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:il y a 2 jours",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:il y a 2 jours",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:il y a 2 jours",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:toutes nos actualités"
+              ]
+            },
+            {
+              "message": "UnexplicitLink",
+              "failed": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Previous"
+              ]
+            },
+            {
+              "message": "UnexplicitLink",
+              "failed": true,
+              "details": [
+                "text:Next",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Alter Way",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:L’équipe",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Le projet"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:#web #opensource #devops"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Agences",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos Offres",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Run",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Build"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Design"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Train",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos clients",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos partenaires",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Actualités",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Carrière",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:Voir sur google",
+                "text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France"
+              ]
+            },
+            {
+              "message": "UnexplicitLinkWithContext",
+              "needMoreInfo": true,
+              "details": [
+                "text:+33 (0) 1 41 16 34 95",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:contact@alterway.fr"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "SuspectedNotPertinentLinkTitle",
+              "needMoreInfo": true,
+              "details": [
+                "text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France",
+                "title:Voir sur google"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-2-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "SuspectedIdenticalLinkWithDifferentTarget",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:4 octobre 2016",
+                "href:https://www.alterway.fr/retrouvez-alter-way-a-la-journee-ambition-pme-le-13-octobre/",
+                "text:4 octobre 2016",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "SuspectedIdenticalLinkWithDifferentTarget",
+              "needMoreInfo": true,
+              "details": [
+                "href:https://www.alterway.fr/ossparis16-empowering-open-innovation/",
+                "text:4 octobre 2016",
+                "Element-Name:4 octobre 2016",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-4-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-6-4-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-4",
+          "failed": true,
+          "elements": [
+            {
+              "message": "IdenticalLinkWithDifferentTarget",
+              "failed": true,
+              "details": [
+                "text:il y a 2 jours",
+                "title:attribute-absent",
+                "Element-Name:il y a 2 jours",
+                "href:https://twitter.com/intent/retweet?tweet_id=784465990218293248"
+              ]
+            },
+            {
+              "message": "IdenticalLinkWithDifferentTarget",
+              "failed": true,
+              "details": [
+                "Element-Name:il y a 2 jours",
+                "text:il y a 2 jours",
+                "href:https://twitter.com/intent/retweet?tweet_id=784465825336004608",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "IdenticalLinkWithDifferentTarget",
+              "failed": true,
+              "details": [
+                "href:https://twitter.com/intent/retweet?tweet_id=784465796785377282",
+                "title:attribute-absent",
+                "text:il y a 2 jours",
+                "Element-Name:il y a 2 jours"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-4-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-5-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.alterway.fr/retrouvez-alter-way-a-la-journee-ambition-pme-le-13-octobre/"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.alterway.fr/#"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.alterway.fr/#"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.alterway.fr/#"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://twitter.com/alterway"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.linkedin.com/company/alter-way"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.youtube.com/channel/UC8k7NlqYUnaAYBOi2Ri70uw"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.facebook.com/Alterway.Officiel/"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://plus.google.com/116700027485997385305/posts"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:http://fr.viadeo.com/fr/company/alter-way"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-7-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NoPatternDetected_Rgaa30-7-4-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-1-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-1-3",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-3-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-4-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-5-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTitlePertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:alter way - Web, Open Source, DevOps"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyShortText",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-8-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-8-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-9-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NoPatternDetected_Rgaa30-8-9-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-9-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-9-1-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-9-1-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:alter way"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:vous avez un projet ? contactez-nous",
+                "Element-Name:headings"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-10-1-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:height"
+              ]
+            },
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:width"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-10-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-10-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "InvisibleOutlineOnFocus",
+              "needMoreInfo": true
+            },
+            {
+              "message": "InvisibleOutlineOnFocus",
+              "needMoreInfo": true
+            },
+            {
+              "message": "InvisibleOutlineOnFocus",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckManuallyOutlineForFormElementAndIframe",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-13-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "IdMissing",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-5-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-6-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-7-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-9-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-9-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-7",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-11-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-11-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-12-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-12-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-1-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-13-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-13-2-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-2",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-3",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-7-1",
+              "needMoreInfo": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.alterway.fr/train/",
+      "summary": {
+        "rawMark": "63.16%",
+        "weightedMark": "65.0829%",
+        "nbPassed": 12,
+        "nbFailedTest": 7,
+        "nbFailedOccurences": 37,
+        "nbPreQualified": 37,
+        "nbNotApplicable": 81,
+        "nbNotTested": 137
+      },
+      "tests": [
+        {
+          "testId": "Rgaa30-1-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-1-1-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-1-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png",
+                "title:attribute-absent",
+                "alt:ecran-offres-train"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Envoi en cours ...",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageWithNotPertinentAlt",
+              "needMoreInfo": true,
+              "details": [
+                "src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png",
+                "alt:ecran-offres-train",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Envoi en cours ...",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-3-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-9",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-9",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-5-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-5-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png",
+                "longdesc:attribute-absent",
+                "alt:ecran-offres-train"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Envoi en cours ...",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "longdesc:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-6-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png",
+                "alt:ecran-offres-train"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Envoi en cours ...",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-7-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/assets/images/LOGO_AW_10ANS.gif"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:http://www.alterway.fr/wp-content/uploads/2015/10/ecran-offres-train.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-8-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-2-1-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "TitleAttributeMissing",
+              "failed": true,
+              "details": [
+                "src:https://www.youtube.com/embed/Ck2XJeY4p00"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-2-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTitleOfIframePertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:recaptcha widget"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(94; 130; 58)",
+                "Contrast:4.44"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(94; 130; 58)",
+                "Contrast:4.44"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Contrast:4.44",
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(94; 130; 58)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Contrast:4.44",
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(94; 130; 58)"
+              ]
+            },
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:linear-gradient(rgb(0, 136, 204), rgb(0, 68, 204))"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Contrast:4.44",
+                "Background-Color:rgb(94; 130; 58)"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(94; 130; 58)",
+                "Contrast:4.44"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Background-Color:rgb(94; 130; 58)",
+                "Contrast:4.44"
+              ]
+            },
+            {
+              "message": "BadContrast",
+              "failed": true,
+              "details": [
+                "Foreground-Color:rgb(255; 255; 255)",
+                "Contrast:4.44",
+                "Background-Color:rgb(94; 130; 58)"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/train.png')"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-4-22-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-4-22-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-1-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-2-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-3-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-5-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-6-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-6-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-8-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-1-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller au menu"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller au contenu"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller à la recherche"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Docker"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:notre site formation",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:À propos",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Agences",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Design",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Build"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Run",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Train",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos clients",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Nos partenaires"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Carrière",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:LE BLOG",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Mentions Légales - CGV - ©‎2015 alter way",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Ok",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:logo alter way"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-1-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Alter Way",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:L’équipe",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Le projet"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:#web #opensource #devops"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Agences"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Nos Offres"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Run"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Build",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Design"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Train"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Nos clients"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos partenaires",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Actualités"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Carrière"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:Voir sur google",
+                "text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France"
+              ]
+            },
+            {
+              "message": "UnexplicitLinkWithContext",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:+33 (0) 1 41 16 34 95"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:contact@alterway.fr"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "SuspectedNotPertinentLinkTitle",
+              "needMoreInfo": true,
+              "details": [
+                "title:Voir sur google",
+                "text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-2-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-5-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://twitter.com/alterway"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.linkedin.com/company/alter-way"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.youtube.com/channel/UC8k7NlqYUnaAYBOi2Ri70uw"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.facebook.com/Alterway.Officiel/"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://plus.google.com/116700027485997385305/posts"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:http://fr.viadeo.com/fr/company/alter-way"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-7-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NoPatternDetected_Rgaa30-7-4-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-1-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-1-3",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-3-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-4-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-5-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTitlePertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Train - Alter Way"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyShortText",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-8-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-8-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-9-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NoPatternDetected_Rgaa30-8-9-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-9-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-9-1-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-9-1-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:Web :"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Développement :",
+                "Element-Name:headings"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Infrastructure :",
+                "Element-Name:headings"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Formations officielles :",
+                "Element-Name:headings"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:Accessibilité web :"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:Progiciels :"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:pour aller plus loin…"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:alter way"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:headings",
+                "text:vous avez un projet ? contactez-nous"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-10-1-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:height"
+              ]
+            },
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:height"
+              ]
+            },
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:width"
+              ]
+            },
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:width"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-10-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-10-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "InvisibleOutlineOnFocus",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckManuallyOutlineForFormElementAndIframe",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-13-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "IdMissing",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-5-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-6-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-7-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-9-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-9-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-7",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-11-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-11-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-12-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-12-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-1-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-13-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-13-2-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-2",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-3",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-7-1",
+              "needMoreInfo": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.alterway.fr/agences/",
+      "summary": {
+        "rawMark": "76.47%",
+        "weightedMark": "71.7156%",
+        "nbPassed": 13,
+        "nbFailedTest": 4,
+        "nbFailedOccurences": 26,
+        "nbPreQualified": 39,
+        "nbNotApplicable": 81,
+        "nbNotTested": 137
+      },
+      "tests": [
+        {
+          "testId": "Rgaa30-1-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-1-1-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-1-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "alt:carte-agences",
+                "src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfElementWithNotEmptyAltAttribute",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "title:attribute-absent",
+                "alt:Envoi en cours ..."
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-2-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageWithNotPertinentAlt",
+              "needMoreInfo": true,
+              "details": [
+                "alt:carte-agences",
+                "src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndAltPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "alt:Envoi en cours ...",
+                "title:attribute-absent",
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-3-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-3-9",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-4-9",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-5-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-5-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png",
+                "alt:carte-agences",
+                "longdesc:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndLongdescDefinition",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "alt:Envoi en cours ...",
+                "longdesc:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-6-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-6-8",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png",
+                "alt:carte-agences"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndDescriptionPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif",
+                "alt:Envoi en cours ..."
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-7-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-7-7",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/themes/alterway-corp/assets/images/LOGO_AW_10ANS.gif"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/uploads/2015/10/carte-agences.png"
+              ]
+            },
+            {
+              "message": "CheckNatureOfImageAndStyledTextPresence",
+              "needMoreInfo": true,
+              "details": [
+                "src:https://www.alterway.fr/wp-content/plugins/contact-form-7/images/ajax-loader.gif"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-1-8-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-1-8-6",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-2-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-2-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTitleOfIframePertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:recaptcha widget"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/email-agences.png')"
+              ]
+            },
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:linear-gradient(rgb(0, 136, 204), rgb(0, 68, 204))"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTheContrastOfImagesWithText",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NotTreatedBackgroundColor",
+              "needMoreInfo": true,
+              "details": [
+                "Element-Name:url('https://www.alterway.fr/wp-content/themes/alterway-corp/dist/images/agences.png')"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-3-3-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-4-22-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-4-22-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-1-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-2-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-3-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-5-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-6-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-6-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-7-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-5-8-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-1-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:paris@alterway.fr",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:lille@alterway.fr"
+              ]
+            },
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:lyon@alterway.fr",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller au menu"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller au contenu"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Aller à la recherche"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:T + 33 (0)1 41 16 34 95"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:T +33 (0)1 41 16 83 40"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:T +33 (0)1 41 16 83 15",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:À propos"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Agences",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Design",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Build"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Run"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Train",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Nos clients"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos partenaires",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Carrière",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:LE BLOG"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Mentions Légales - CGV - ©‎2015 alter way",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Ok",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithoutContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:logo alter way",
+                "title:attribute-absent"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-1-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Alter Way",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:L’équipe"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Le projet",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:#web #opensource #devops"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Agences"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Nos Offres"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Run",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Build",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Design"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:Train"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos clients",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Nos partenaires",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Actualités",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Carrière",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France",
+                "title:Voir sur google"
+              ]
+            },
+            {
+              "message": "UnexplicitLinkWithContext",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:+33 (0) 1 41 16 34 95"
+              ]
+            },
+            {
+              "message": "CheckLinkWithContextPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:contact@alterway.fr"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-1-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-2-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "SuspectedNotPertinentLinkTitle",
+              "needMoreInfo": true,
+              "details": [
+                "title:Voir sur google",
+                "text:227 Bureaux de la colline  1 rue Royale - Bât. D  92210 Saint-Cloud  France"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-6-2-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-4",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-4-5",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-6-5-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://twitter.com/alterway"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.linkedin.com/company/alter-way"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.youtube.com/channel/UC8k7NlqYUnaAYBOi2Ri70uw"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://www.facebook.com/Alterway.Officiel/"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:https://plus.google.com/116700027485997385305/posts"
+              ]
+            },
+            {
+              "message": "EmptyLink",
+              "failed": true,
+              "details": [
+                "href:http://fr.viadeo.com/fr/company/alter-way"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-7-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NoPatternDetected_Rgaa30-7-4-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-1-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-1-3",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-3-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-4-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-5-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckTitlePertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:Agences - Alter Way"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyShortText",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-8-8-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-8-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-8-9-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "NoPatternDetected_Rgaa30-8-9-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-9-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-9-1-2",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-9-1-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:alter way",
+                "Element-Name:headings"
+              ]
+            },
+            {
+              "message": "CheckHeadingPertinence",
+              "needMoreInfo": true,
+              "details": [
+                "text:vous avez un projet ? contactez-nous",
+                "Element-Name:headings"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-1-1",
+          "passed": true
+        },
+        {
+          "testId": "Rgaa30-10-1-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:height"
+              ]
+            },
+            {
+              "message": "PresentationAttrFound",
+              "failed": true,
+              "details": [
+                "Element-Name:width"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-4-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-10-4-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-10-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "InvisibleOutlineOnFocus",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckManuallyOutlineForFormElementAndIframe",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-10-13-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            },
+            {
+              "message": "HiddenTextDetected",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-1",
+          "failed": true,
+          "elements": [
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            },
+            {
+              "message": "InvalidFormField",
+              "failed": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-2",
+          "failed": true,
+          "elements": [
+            {
+              "message": "IdMissing",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            },
+            {
+              "message": "InvalidInput",
+              "failed": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-1-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-3-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-4-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true,
+              "details": [
+                "text:Search for:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-5-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-6-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-7-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-1",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-8-3",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-11-9-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-9-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-4",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-10-7",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-11-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-11-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-12-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-11-12-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            },
+            {
+              "message": "ManualCheckOnElements",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-1-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-13-2-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "text:",
+                "title:attribute-absent"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:"
+              ]
+            },
+            {
+              "message": "CheckUserIsWarnedWhenNewWindowOpen",
+              "needMoreInfo": true,
+              "details": [
+                "title:attribute-absent",
+                "text:"
+              ]
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-2-2",
+          "notApplicable": true
+        },
+        {
+          "testId": "Rgaa30-13-2-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            },
+            {
+              "message": "CheckUserIsWarnedInCaseOfNewWindow",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-1",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-2",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-2",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-6-3",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-6-3",
+              "needMoreInfo": true
+            }
+          ]
+        },
+        {
+          "testId": "Rgaa30-13-7-1",
+          "needMoreInfo": true,
+          "elements": [
+            {
+              "message": "CheckManuallyLinkWithoutExtension_Rgaa30-13-7-1",
+              "needMoreInfo": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

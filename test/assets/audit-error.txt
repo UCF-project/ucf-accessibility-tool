@@ -1,0 +1,13 @@
+Audit terminated with success at 2016-10-10 09:20:29.0
+Audit Id : 32
+
+java.lang.NullPointerException
+	at org.asqatasun.runner.Asqatasun.auditCompleted(Asqatasun.java:277)
+	at org.asqatasun.service.AuditServiceImpl.fireAuditCompleted(AuditServiceImpl.java:218)
+	at org.asqatasun.service.AuditServiceImpl.auditCompleted(AuditServiceImpl.java:210)
+	at org.asqatasun.service.AuditServiceThreadQueueImpl.fireAuditCompleted(AuditServiceThreadQueueImpl.java:238)
+	at org.asqatasun.service.AuditServiceThreadQueueImpl.auditCompleted(AuditServiceThreadQueueImpl.java:201)
+	at org.asqatasun.service.AuditServiceThreadImpl.fireAuditCompleted(AuditServiceThreadImpl.java:142)
+	at org.asqatasun.service.AuditServiceThreadImpl.run(AuditServiceThreadImpl.java:100)
+	at java.lang.Thread.run(Thread.java:745)
+crash (id+message): 32 java.lang.NullPointerException
